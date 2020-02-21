@@ -38,7 +38,7 @@ fetch('final_dt35 - Copie.json')
 
 
   const deckgl = new deck.DeckGL({
-    mapboxApiAccessToken: 'pk.eyJ1IjoibmFoZWxvdSIsImEiOiJjamVvZHc5N24zazU2MzNwa2N4cWppa2lsIn0.5_rLbZlODCllJudZrubOcA',
+    mapboxApiAccessToken: 'YOUR_TOKEN',
     mapStyle: 'mapbox://styles/mapbox/dark-v9',
     longitude: -1.68333,
     latitude: 48.083328,
