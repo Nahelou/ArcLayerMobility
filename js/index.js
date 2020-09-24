@@ -10,9 +10,7 @@ fetch('final_dt35 - Copie.json')
     [255, 255, 0],
     [255, 255, 0]
   ];
-    // Demande de nom de ville
-   /* var N = prompt("Quelle ville vous intéresse? ");*/
-
+  
   const outFlowColors = [
     [255, 255, 178],
     [254, 217, 118],
